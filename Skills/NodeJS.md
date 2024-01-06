@@ -11,14 +11,14 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 🎓 known
+  - ECMAScript modules: 🎓 known
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Dependencies: npm, node_modules: 🎓 known
+  - Dependencies: package.json and package lock: 🎓 known
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,8 +26,8 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 🎓 known
+  - Node.js CLI: 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🎓 known
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,17 +86,17 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
   - TLS
-  - Websocket
+  - Websocket: 🎓 known
   - SSE
-  - HTTP/3 (QUIC)
+  - HTTP/3 (QUIC): 🎓 known
   - Long polling
   - REST
   - RPC
-  - Routing
+  - Routing: 🎓 known
   - DoS
   - DDoS
   - XSS
@@ -116,30 +116,30 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 🎓 known
   - CI/CD
-  - Readable
+  - Readable 
   - Writable
   - Transform
   - back pressure
-  - Buffer
-  - Console
+  - Buffer: 🎓 known
+  - Console: 🎓 known
   - Inspector
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
 - Data access
   - Data access layer
-  - Repository
+  - Repository: 🎓 known
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🎓 known
   - error.cause
   - error.code
-  - error.message
+  - error.message: 🎓 known
   - error.stack
   - How to avoid mixins
   - Error.captureStackTrace
@@ -147,8 +147,8 @@
   - Heap dump
   - Debugging tools
   - Flame graph
-  - Memory leaks
-  - Resource leaks
+  - Memory leaks: 🎓 known
+  - Resource leaks: 🎓 known
   - Data race
 - Integrations and bindings
   - Native addons
