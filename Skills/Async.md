@@ -1,45 +1,45 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - try..catch
-  - Non-blocking
-  - Async I/O
-  - Thread pool
-  - Pattern Reactor
-  - CAS operations
-  - epoll
-  - kqueue
-  - Completion ports
-  - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
-  - Live locks
-  - Concurrent programming
-  - Parallel programming
-  - Actor Model
-  - Thread
-  - Process
+  - Event loop: 🎓 known
+  - try..catch: 🖐️ used
+  - Non-blocking: 
+  - Async I/O: 👂 heard
+  - Thread pool:
+  - Pattern Reactor:
+  - CAS operations:
+  - epoll:
+  - kqueue:
+  - Completion ports:
+  - Event ports:
+  - libuv:👂 heard
+  - Race conditions:
+  - Dead locks:
+  - Live locks:
+  - Concurrent programming:
+  - Parallel programming:
+  - Actor Model:
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
-  - Future
-  - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
-  - Signal
-  - Stream
-  - Chain of responsibility
-  - Middleware
-  - Locks
+  - Promise: 🎓 known
+  - Async/await: 🖐️ used
+  - Future: 
+  - Deferred:
+  - Sync generator:
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 👂 heard
+  - Coroutine:
+  - Goroutine:
+  - Signal:
+  - Stream:
+  - Chain of responsibility:
+  - Middleware: 👂 heard
+  - Locks:
 - Async adapters and utils
   - callbackify
   - promisify
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter: 👂 heard
   - Observable/Observer
   - Readable
   - Writable
@@ -59,7 +59,7 @@
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers: 🖐️ used
   - setImmediate
   - nextTick
   - AbortController
@@ -72,16 +72,16 @@
   - High resolution clock
   - Callback hell
   - Promise hell
-  - ref() and unref()
+  - ref() and unref(): 👂 heard
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization
+  - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library
+  - async.js library: 👂 heard
   - RxJS library
   - Async composition
   - Promise.all
